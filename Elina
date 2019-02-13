@@ -1,0 +1,10 @@
+public class HelloWorld {  
+public static void main(String[] args) {   
+System.out.println("Хабибуллина");
+System.out.println("Лобанова");
+System.out.println("Сафетдинова");
+System.out.println("Халисова");
+System.out.println("Багаутдинова");
+System.out.println("Фаттахова");       
+} 
+}
